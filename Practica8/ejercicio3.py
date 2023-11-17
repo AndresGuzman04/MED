@@ -7,3 +7,5 @@ except FileNotFoundError:
     print(f"El archivo '{archivo_nombre}' no se encuentra.")
 except Exception as e:
     print(f"Se produjo un error: {e}")
+
+
